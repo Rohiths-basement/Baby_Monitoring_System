@@ -1,7 +1,6 @@
 # Baby_Monitoring_System
 This is a Baby Monitoring System built with the help of Arduino UNO in order to explore the concepts taught as part of the course, "Microprocessor &amp; Computer Architecture: (UE20CS252)"
 
-Picture of the model has been uploaded to this same repository.
 
 Make the Connections as specified in the code 
 **OR**
@@ -33,9 +32,7 @@ Could add other sensors like the rain sensor to check if it's raining in the tro
 
 <hr>
 
-**Teammates:**
+Below is the photo of the prototype model 
 
-1) Punarv Dinakar
-
-2) Roshni PN
+![image](https://github.com/Rohiths-basement/Baby_Monitoring_System/assets/83353135/2045886a-b480-4d0a-bfe1-a7a9dad6463a)
 
